@@ -1,0 +1,18 @@
+{
+  "targets": {
+    "angular-html-f551c": {
+      "hosting": {
+        "ingresoEgresoApp": [
+          "angular-html-f551c"
+        ]
+      }
+    },
+    "ingreso-egreso-app-49c94": {
+      "hosting": {
+        "ingresoEgresoApp": [
+          "ingreso-egreso-app-49c94"
+        ]
+      }
+    }
+  }
+}
